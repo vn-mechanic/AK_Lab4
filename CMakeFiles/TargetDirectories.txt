@@ -1,0 +1,3 @@
+/home/quppeq/lab4/calculator/CMakeFiles/rebuild_cache.dir
+/home/quppeq/lab4/calculator/CMakeFiles/calculator_cmake.dir
+/home/quppeq/lab4/calculator/CMakeFiles/edit_cache.dir
